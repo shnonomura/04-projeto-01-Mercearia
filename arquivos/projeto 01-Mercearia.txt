@@ -1,0 +1,14 @@
+PROJETO 01 - MERCEARIA
+
+Cadastro / Alteração / Remoção de Categoria
+Cadastro / Alteração / Remoção de Produto
+Cadastro / Alteração / Remoção de Fornecedor
+Cadastro / Alteração / Remoção de Cliente
+Cadastro / Alteração / Remoção de Funcionario
+
+Caixa - contemplar funcionalidades do caixa
+
+Relatório Geral de Vendas
+Relatório de Vendas por Data
+Relatório de Produtos mais vendidos
+Relatório de Clientes que mais compraram
